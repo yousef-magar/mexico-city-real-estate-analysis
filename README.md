@@ -1,4 +1,3 @@
-```markdown
 # 🏙️ Mexico City Apartment Price Prediction
 
 Predicting apartment prices in Mexico City (Distrito Federal) using location and size features.
@@ -23,4 +22,4 @@ Python · Pandas · Scikit-learn · Matplotlib · Category Encoders
 3. **Baseline** — Mean price as a naive benchmark
 4. **Model** — OneHotEncoder → SimpleImputer → Ridge Regression
 5. **Evaluate** — MAE comparison + feature importance chart
-```
+
